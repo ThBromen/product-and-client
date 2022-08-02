@@ -1,0 +1,75 @@
+
+
+body{
+    
+ background-image: url(tttt.jpg);
+ background-repeat: no-repeat;
+ width: 100%;
+ height: 700px;
+ min-height: 100vh;
+ background-attachment: fixed;
+overflow-x: hidden;
+} 
+.login {
+    width: 400px;
+    height: 450px;
+    border: 5px solid green;
+    padding: 2px;
+    text-align: center;
+    margin: 10% 35% ;
+}
+  #log{
+    background-color: rgb(170, 143, 143);
+  }
+  #foam {
+    width: 600px;
+    height: 800px;
+    border: 5px solid rgb(203, 238, 8);
+    margin: 5% 35% ;
+    padding: 2px;
+  }
+  input{
+    margin: 10px;
+    margin-top: 10px;
+  }
+  .main{
+    width:100%;
+    height: 200px;
+    border: 5px solid rgb(49, 11, 13);
+    background-color: rgb(228, 175, 175);
+  }
+.middle{
+display: flex;
+flex: auto;
+}
+.middle img{
+  width: 33%;
+  height: 400px;
+  display: flex;
+
+}
+#doun{
+width: 100%;
+height: 200px;
+margin: 100px;
+  display: flex;
+}
+#links{
+  /* background-color: rgb(197, 208, 212) */
+}
+
+
+#connect{
+  height: 300px;
+  display: inline;
+  text-align: left;
+
+}
+#hagat{
+  /* background-color: rgb(192, 192, 57); */
+  width: 90%;
+  height: 600px;
+}
+.grid-item{
+  display: grid;
+}
