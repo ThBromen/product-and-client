@@ -4,5 +4,30 @@
  2. git status command
 
 
+// kuziha git 
+3. git add .(zose).
+4. git add index.html (specific).
+
+
+// configure local repository
+
+git config --global user.name ""
+git config --global user.email ""
+
+//  commit into local repository
+
+git commit -m "message"
+
+// set remote repository
+
+git remote add origin https://github.com/ThBromen/product-and-client.git
+
+//    
+
+
+
+
+
+
 
 
